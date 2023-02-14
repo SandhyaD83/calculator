@@ -1,0 +1,48 @@
+.mainContainer{
+    border:solid black;
+    background-color:#00c4cc;
+    width: 700px;
+    height: 700px;
+    margin-top: 200px;
+    margin-left: 400px;
+    
+}
+.textBox{
+    border:solid black;
+    background-color: white;
+    border-width: 2px;
+    margin:65px;
+    height:80px;
+    padding:10px;
+    text-align:center;
+    font-size: 40px;
+   }
+   
+  
+ .btnContainer{
+   /*border:solid;*/
+
+   height:450px;
+   margin:10px;
+   
+   
+
+ }
+ .div1,.div2 ,.div3, .div4,.div5{
+   /* border:solid red;*/
+    margin:10px;
+    height:70px;
+    padding:5px;
+}
+.btn{
+  border-color: black;
+   width: 100px;
+   height:60px;
+   margin-top: 6px;
+   margin-left:45px;
+   border-radius:12px;
+   font-size: 25px;
+}
+.btn:hover{
+ background-color:rgb(226, 226, 130) ;
+ }
